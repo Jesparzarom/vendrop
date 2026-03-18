@@ -26,3 +26,7 @@ pids
 .vscode/
 .idea/
 .DS_Store
+
+
+.gemini/
+GEMINI.md

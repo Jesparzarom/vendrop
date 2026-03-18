@@ -11,7 +11,8 @@
     "dist"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup src/index.ts src/cli.ts --format esm --dts"
   },
   "keywords": [
     "vite",
@@ -28,6 +29,20 @@
   ],
   "author": "J.P. Esparza",
   "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1",
+    "terser": "^5.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsup": "^8.5.1",
+    "typescript": "^5.3.3",
+    "vite": "^8.0.0"
+  },
+  "peerDependencies": {
+    "vite": ">=4.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TU_USUARIO/vendrop.git"
