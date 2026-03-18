@@ -1,0 +1,39 @@
+{
+  "name": "vendrop",
+  "version": "1.0.0",
+  "description": "Minify and copy vendor JS dependencies to your public folder. Vite plugin, Astro compatible, and CLI included.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "vendrop": "dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "astro",
+    "nextjs",
+    "vendor",
+    "minify",
+    "terser",
+    "copy",
+    "bundle",
+    "cli",
+    "node_modules",
+    "public"
+  ],
+  "author": "J.P. Esparza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TU_USUARIO/vendrop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TU_USUARIO/vendrop/issues"
+  },
+  "homepage": "https://github.com/TU_USUARIO/vendrop#readme"
+}
