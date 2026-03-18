@@ -1,4 +1,4 @@
-# Vendrop 🚀
+# Hola,  Vendrop 🚀
 
 Copying vendor scripts like a code monkey is a miserable way to build websites. Vendrop exists because dealing with giant dependencies manually makes me sick. It grabs your files, minifies them, and spits them out exactly where they belong.
 
