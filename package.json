@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TU_USUARIO/vendrop.git"
+    "url": "git+https://github.com/jesparzarom/vendrop.git"
   },
   "bugs": {
-    "url": "https://github.com/TU_USUARIO/vendrop/issues"
+    "url": "https://github.com/jesparzarom/vendrop/issues"
   },
-  "homepage": "https://github.com/TU_USUARIO/vendrop#readme"
+  "homepage": "https://github.com/jesparzarom/vendrop#readme"
 }
