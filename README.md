@@ -1,6 +1,6 @@
 # Vendrop 🚀
 
-**Vendrop** is a powerful and flexible tool designed to automate the process of copying and minifying vendor assets (like JavaScript dependencies) from `node_modules` or local folders to your public distribution folder.
+Copying vendor scripts like a code monkey is a miserable way to build websites. Vendrop exists because dealing with giant dependencies manually makes me sick. It grabs your files, minifies them, and spits them out exactly where they belong.
 
 It works seamlessly as a **CLI**, a **Vite Plugin**, or an **Astro Integration**.
 
